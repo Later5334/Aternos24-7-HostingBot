@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "SMP4DPS.play.hosting",
-    "port": 33834,
+    "port": 50128,
     "version": "",
     "try-creative": false
   },
